@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>fecool示例</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0,user-scalable=no,minimal-ui" />
+  <style>
+    body {
+      font-size: 14px;
+      margin: 0;
+    }
+  </style>
+  <script>
+    var now = +new Date();
+  </script>
+  <link rel="stylesheet" href="./app.less#url" />
+</head>
+
+<body>
+  <div id="app"></div>
+  <script type="text/javascript" src="./common/common.js#url"></script>
+  <script>
+    (function () {
+      require([
+        "./app.jsx#url"
+      ], function (engine) {
+      });
+    })();
+  </script>
+</body>
+
+</html>

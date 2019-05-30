@@ -1,0 +1,17 @@
+{
+  "name": "fecool_demos",
+  "version": "1.0.0",
+  "description": "a collection of simple demos of fecool",
+  "scripts": {
+    "dev": "fecool -d -e development -c fecool.config.development.js",
+    "watch": "fecool -d -e development -w -c fecool.config.development.js",
+    "server": "fecool -s -c fecool.config.development.js",
+    "build": "fecool -c fecool.config.production.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fecool": "0.1.2",
+    "http-proxy-middleware": "0.19.1"
+  }
+}
