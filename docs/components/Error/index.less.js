@@ -1,5 +1,5 @@
-window.__args = JSON.parse("{\"x\":1,\"buildTimestamp\":1559201812444,\"env\":\"production\"}");
-define("https://sisimengchen.github.io/react-shell/components/Error/index.less.js", function () {
+window.__args = JSON.parse("{\"x\":1,\"buildTimestamp\":1559202035430,\"env\":\"production\"}");
+define("https://sisimengchen.github.io/fecool_demos/components/Error/index.less.js", function () {
   return function (style) {
     var useCount = 0;
     var headElement;

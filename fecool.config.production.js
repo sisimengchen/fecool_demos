@@ -9,7 +9,7 @@ const config = {
   output: {
     path: "./docs",
     common: "./docs/common",
-    publicPath: "https://sisimengchen.github.io/react-shell",
+    publicPath: "https://sisimengchen.github.io/fecool_demos",
     sourceMapDirName: "./.sourcemaps",
     imagemin: false,
     hasha: false,
