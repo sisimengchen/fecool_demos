@@ -11,10 +11,9 @@ const config = {
     common: "./dist/common",
     publicPath: "//feresource.com:8093",
     sourceMapDirName: "./.sourcemaps",
-    imagemin: false,
     hasha: false,
     args: {
-      x: 1
+      param: '我是构建参数'
     },
     ignoreExt: [".md"]
   },

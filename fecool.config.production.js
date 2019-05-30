@@ -11,10 +11,9 @@ const config = {
     common: "./docs/common",
     publicPath: "https://sisimengchen.github.io/fecool_demos",
     sourceMapDirName: "./.sourcemaps",
-    imagemin: false,
-    hasha: false,
+    hasha: true,
     args: {
-      x: 1
+      param: '我是构建参数'
     },
     ignoreExt: [".md"]
   },
