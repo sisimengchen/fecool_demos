@@ -33,7 +33,7 @@ const config = {
     open: "external", // 启动浏览器 "external"
     host: "feresource.com",
     watch: false,
-    directory: true,
+    // directory: true,
     https: false,
     middleware: []
   }

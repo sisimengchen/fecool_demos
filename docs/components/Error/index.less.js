@@ -1,4 +1,4 @@
-window.__args = JSON.parse("{\"x\":1,\"buildTimestamp\":1559202035430,\"env\":\"production\"}");
+window.__args = JSON.parse("{\"x\":1,\"buildTimestamp\":1559202972813,\"env\":\"production\"}");
 define("https://sisimengchen.github.io/fecool_demos/components/Error/index.less.js", function () {
   return function (style) {
     var useCount = 0;
