@@ -1,4 +1,4 @@
-window.__args = JSON.parse("{\"param\":\"\u6211\u662F\u6784\u5EFA\u53C2\u6570\",\"buildTimestamp\":1559207154317,\"env\":\"production\"}");
+window.__args = JSON.parse("{\"param\":\"\u6211\u662F\u6784\u5EFA\u53C2\u6570\",\"buildTimestamp\":1559223284980,\"env\":\"production\"}");
 define("https://sisimengchen.github.io/fecool_demos/pages/home/index.less.js", function () {
   return function (style) {
     var useCount = 0;
