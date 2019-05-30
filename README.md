@@ -1,11 +1,10 @@
-# fecool
+# fecool_demo
 
-a collection of simple demos of fecool
+一个用fecool构建的demo [访问地址](https://sisimengchen.github.io/fecool_demos/)
+
+## 本地开发使用
 
 host 配置 127.0.0.1 feresource.com
-
-## 开发使用
-
 
 ### 开发环境环境部署
 ```shell
