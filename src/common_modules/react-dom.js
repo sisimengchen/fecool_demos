@@ -1,3 +1,4 @@
+/* @umdjs */
 /** @license React v16.8.6
  * react-dom.development.js
  *
